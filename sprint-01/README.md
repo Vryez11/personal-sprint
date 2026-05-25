@@ -20,7 +20,7 @@
 
 | 날짜    | 한 일                                                                                                                                                   | 결과물                                                                                                                                |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| 05.26 | Java 노션 정리 (동시성 컬렉션, 스레드 풀과 Executor 프레임워크) <br/>DB 노션 정리 (서브쿼리, UNION, CASE문, 뷰, 인덱스) <br/>클린 코드 독서, <br/>코테 1문제, <br/>오픽 1개 토픽 모의고사, <br/>AI 개발자 특강 | https://github.com/Vryez11/java-play-ground <br/>https://github.com/Vryez11/db-study<br/>https://github.com/Vryez11/java-algorithm |
+| 05.25 | Java 노션 정리 (동시성 컬렉션, 스레드 풀과 Executor 프레임워크) <br/>DB 노션 정리 (서브쿼리, UNION, CASE문, 뷰, 인덱스) <br/>클린 코드 독서, <br/>코테 1문제, <br/>오픽 1개 토픽 모의고사, <br/>AI 개발자 특강 | https://github.com/Vryez11/java-play-ground <br/>https://github.com/Vryez11/db-study<br/>https://github.com/Vryez11/java-algorithm |
 |       |                                                                                                                                                       |                                                                                                                                    |
 
 ## Results
