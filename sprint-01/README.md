@@ -9,6 +9,16 @@
 4. 책 : 클린 코드
 5. 코테 : 하루 1문제
 
+## Progress
+
+```mermaid
+xychart-beta
+    title "일별 완료 항목 (목표 5개)"
+    x-axis [05.26, 05.27, 05.28, 05.29, 05.30, 05.31]
+    y-axis "완료 개수" 0 --> 5
+    bar [5, 0, 0, 0, 0, 0]
+```
+
 ## Daily Log
 하루 한 줄. 결과물은 커밋/PR/repo 링크로. (긴 회고는 retrospective.md에)
 
