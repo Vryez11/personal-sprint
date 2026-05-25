@@ -59,7 +59,6 @@ personal-sprint/
 
 ## Results
 스프린트 종료 시, 핵심 산출물만 요약.
-- 
 
 ## Learned
 - 
