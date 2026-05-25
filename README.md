@@ -51,7 +51,7 @@ personal-sprint/
 
 ### `sprint-NN/README.md`
 
-````md
+```md
 # Sprint NN
 
 기간: YYYY.MM.DD ~ YYYY.MM.DD
@@ -61,13 +61,9 @@ personal-sprint/
 
 ## Progress
 
-```mermaid
-xychart-beta
-    title "일별 완료 항목 (목표 N개)"
-    x-axis [MM.DD, MM.DD, MM.DD, MM.DD, MM.DD, MM.DD]
-    y-axis "완료 개수" 0 --> N
-    bar [0, 0, 0, 0, 0, 0]
-```
+| DD | DD | DD | DD | DD | DD |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## Daily Log
 하루 한 줄. 결과물은 커밋/PR/repo 링크로. (긴 회고는 retrospective.md에)
@@ -87,7 +83,7 @@ xychart-beta
 - Notion (학습 노트):
 
 > 회고는 [retrospective.md](./retrospective.md) 참고
-````
+```
 
 ### `sprint-NN/retrospective.md`
 
