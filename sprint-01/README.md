@@ -22,7 +22,7 @@
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | 05.25 | - Java 노션 정리 (동시성 컬렉션, 스레드 풀과 Executor 프레임워크) <br/> - DB 노션 정리 (서브쿼리, UNION, CASE문, 뷰, 인덱스) <br/>- 클린 코드 독서 <br/>- 코테 1문제 <br/>- 오픽 1개 토픽 모의고사 <br/>- AI 개발자 특강       | https://github.com/Vryez11/java-play-ground <br/>https://github.com/Vryez11/db-study<br/>https://github.com/Vryez11/java-algorithm |
 | 05.26 | - Java 노션 정리 (문자 인코딩, I/O (바이트 스트림, 문자 스트림, 활용, File, Files, Path)) <br/> - DB 노션 정리 (데이터 무결성, 트랜잭션, 저장 프로시저, 함수, 트리거)  <br/>- 클린 코드 독서<br/>- 코테 1문제 <br/>- 서비스 기획 특강 | https://github.com/Vryez11/java-play-ground<br/> https://github.com/Vryez11/db-study <br/> https://github.com/Vryez11/java-algorithm                                        |
-|       |                                                                                                                                                                       |                                                                                                                                    |
+| 05.27 | - 코테 1문제                                                                                                                                                              | https://github.com/Vryez11/java-algorithm                                                                                                                                   |
 
 ## Results
 스프린트 종료시, 핵심 산출물만 요약.
