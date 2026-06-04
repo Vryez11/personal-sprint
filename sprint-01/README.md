@@ -3,7 +3,7 @@
 기간: 2026.05.26 ~ 2026.06.07
 
 ## Goals
-1. Java : 고급 3편 인강 및 정리
+1. Java : 고급 2편 인강 및 정리
 2. DB : 설계 2편 인강 및 정리
 3. 오픽 : 하루 1개씩 토픽 모의고사
 4. 책 : 클린 코드
@@ -27,7 +27,7 @@
 | 05.29 | - AI 기술 교육 강의 (Prompt Engineering 5강, 6강, 7강, 8강, 9강, 10강) <br/>- AI 기술 교육 강의 (Agentic Workflow 1강, 2강)                                                                                                                                              |                                                                                                                                    |
 | 06.01 | - 코테 1 문제 <br/>- 클린 코드 독서                                                                                                                                                                                                                            | https://github.com/Vryez11/java-algorithm                                                                                                                                   |
 | 06.03 | - 코테 2 문제 <br/>- Java 인프런 강의 (네트워크 - 채팅 프로그램, HTTP - 기본 이론, 네트워크 - HTTP 서버 만들기) <br/> - Java 노션 정리 (네트워크 - 채팅 프로그램, 네트워크 - HTTP 서버 만들기) <br/> - AI 기술 교육 협업 프로젝트 <br/>- HTTP 기본 이론 노션 정리 <br/>- 클린 코드 독서<br/>- AI 기술 교육 강의 (Agentic Workflow 3강, 4강) | https://github.com/Vryez11/java-algorithm<br/>https://github.com/Vryez11/java-play-ground <br/>https://github.com/sanghyeon1225/asm-team18-ai-study<br/>https://www.notion.so/HTTP-3748e70ba5ff8050ae4dd2bc4a379ccc?source=copy_link                                                                                                                                  |
-| 06.04 | - 코테 1 문제 <br/>- Java 인프런 강의 (리플렉션, 애노테이션) <br/>- Java 노션 정리 (리플렉션, 애노테이션)                                                                                                                                                                            | https://github.com/Vryez11/java-algorithm <br/>https://github.com/Vryez11/java-play-ground                                                                                                                                  |
+| 06.04 | - 코테 1 문제 <br/>- Java 인프런 강의 (리플렉션, 애노테이션) <br/>- Java 노션 정리 (리플렉션, 애노테이션) <br/> - DB 설계 1편 강의 (설계의 중요성) <br/> - DB 노션 정리 (설계의 중요성)                                                                                                                  | https://github.com/Vryez11/java-algorithm <br/>https://github.com/Vryez11/java-play-ground <br/>https://github.com/Vryez11/db-study                                                                                                                                 |
 
 ## Results
 스프린트 종료시, 핵심 산출물만 요약.
