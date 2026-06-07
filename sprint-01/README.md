@@ -33,13 +33,57 @@
 | 06.07 | - 코테 1 문제 <br/>- AWS 인프라 설계 특강                                                                                                                                                                                                                       | https://github.com/Vryez11/java-algorithm                                                                                                                                   |
 
 ## Results
-스프린트 종료시, 핵심 산출물만 요약.
+#### [자바 학습](https://github.com/Vryez11/java-play-ground)
+#### [DB 학습](https://github.com/Vryez11/db-study)
+#### [코딩테스트](https://github.com/Vryez11/java-algorithm)
+#### [HTTP 정리](https://www.notion.so/HTTP-3748e70ba5ff8050ae4dd2bc4a379ccc?source=copy_link)
+#### [AI 기술 교육 협업 프로젝트](https://github.com/sanghyeon1225/asm-team18-ai-study)
+#### [클로드 특강](https://www.notion.so/Claude-Code-3763c5cd24f48011af17fae0753cb2dc?source=copy_link)
 
 ## Learned
-- 
+### Java
+1. 동시성 컬렉션
+2. 스레드 풀과 Executor 프레임워크1
+3. 스레드 풀과 Executor 프레임워크2
+4. 문자 인코딩
+5. I/O - 바이트 스트림
+6. I/O - 문자 스트림
+7. I/O - 활용
+8. I/O - File, Files, Path
+9. 네트워크 - 기본 이론
+10. 네트워크 - 프로그램 1
+11. 네트워크 - 프로그램 2
+12. 네트워크 - 채팅 프로그램
+13. 네트워크 - HTTP 서버 만들기
+14. 리플렉션
+15. 애노테이션
+16. HTTP 서버 활용
+
+### DB
+1. 서브 쿼리
+2. UNION
+3. CASE 문
+4. 뷰
+5. 인덱스 - 원리와 기본 동작
+6. 인덱스 - 설계와 최적화
+7. 데이터 무결성
+8. 트랜잭션
+9. 저장 프로시저, 함수, 트리거
+10. 설계의 중요성
+
+### HTTP
+1. 인터넷 네트워크
+2. URI와 웹 브라우저 요청 흐름
+3. HTTP 기본
+4. HTTP 메서드
+5. HTTP 메서드 활용
+6. HTTP 상태코드
+7. HTTP 헤더
+
+### 코딩테스트 문제
+**총 12 문제**
 
 ## Related Links
-- GitHub:
-- Notion (학습 노트):
+- GitHub: https://github.com/Vryez11
 
 > 회고는 [retrospective.md](./retrospective.md) 참고
