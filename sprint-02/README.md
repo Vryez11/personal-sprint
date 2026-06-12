@@ -34,6 +34,7 @@
 | 06.09 | - 스프링 핵심 원리 (스프링 핵심 원리 이해2-객체 지향 원리 적용, 스프링 컨테이너와 스프링 빈, 싱글톤 컨테이너) <br/> - 스프링 학습 정리 (객체 지향 원리 적용, 스프링 컨테이너와 스프링 빈, 싱글톤 컨테이너) <br/> - LeetCode 코테 1문제                                     | https://github.com/Vryez11/spring-study <br/>https://github.com/Vryez11/java-algorithm                                                |
 | 06.10 | - 스프링 핵심 원리 (컴포넌트 스캔, 의존관계 자동 주입, 빈 생명주기 콜백) <br/> - 스프링 학습 정리 (컴포넌트 스캔, 의존관계 자동 주입, 빈 생명주기 콜백) <br/> - LeetCdoe 코테 1문제                                                                   | https://github.com/Vryez11/spring-study <br/>https://github.com/Vryez11/java-algorithm                                                                                       |
 | 06.11 | - 스프링 핵심 원리 (빈 스코프) <br/> - 스프링 학습 정리 (빈 스코프) <br/> - 스프링 MVC 1편 (웹 애플리케이션 이해, 서블릿) <br/> - 스프링 MVC 학습 정리 (웹 애플리케이셔 이해, 서블릿) <br/> - LeetCode 코테 1문제                                      | https://github.com/Vryez11/spring-study <br/>https://github.com/Vryez11/java-algorithm                                                                                       |
+| 06.12 | - 스프링 MVC 1편 (서블릿, JSP, MVC 패턴) <br/> - 스프링 MVC 학습 정리 (서블릿, JSP, MVC 패턴)                                                                                                                  | https://github.com/Vryez11/spring-study                                                                                        |
 
 ## Results
 스프린트 종료시, 핵심 산출물만 요약.
