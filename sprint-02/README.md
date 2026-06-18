@@ -23,7 +23,7 @@
 
 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ✅  | ✅  | ✅  | ✅  | ⬜  | ⬜  | ⬜  |  ✅   | ⬜  | ✅  | ⬜  | ⬜  | ⬜  | ⬜  |
+| ✅  | ✅  | ✅  | ✅  | ✅  | ⬜  | ⬜  |  ✅   | ⬜  | ✅  | ⬜  | ⬜  | ⬜  | ⬜  |
 
 ## Daily Log
 하루 한 줄. 결과물은 커밋/PR/repo 링크로. (긴 회고는 retrospective.md에)
@@ -37,6 +37,7 @@
 | 06.12 | - 스프링 MVC 1편 (서블릿, JSP, MVC 패턴) <br/> - 스프링 MVC 학습 정리 (서블릿, JSP, MVC 패턴) <br/> - 자바 고급 3편 (람다가 필요한 이유) <br/> - 자바 학습 정리 (람다가 필요한 이유)<br/> - LeetCode 코테 1문제                               | https://github.com/Vryez11/spring-study <br/>https://github.com/Vryez11/java-play-ground <br/>https://github.com/Vryez11/java-algorithm |
 | 06.15 | - 스프링 MVC 1편 (MVC 프레임워크 만들기, 스프링 MVC - 구조 이해) <br/> - 스프링 MVC 학습 정리 (MVC 프레임워크 만들기, 스프링 MVC 구조 이해) <br/> - 자바 고급 3편 (람다) <br/> - 자바 학습 정리 (람다) <br/> - LeetCdoe 코테 1 문제                   | https://github.com/Vryez11/spring-study <br/>https://github.com/Vryez11/java-play-ground <br/>https://github.com/Vryez11/java-algorithm |
 | 06.17 | - 스프링 MVC 1편 (스프링 MVC - 기본 기능, 스프링 MVC - 웹 페이지 만들기) <br/> - 스프링 MVC 학습 정리 (스프링 MVC 기본 기능, 웹 페이지 만들기) <br/> - 자바 고급 3편 (함수형 인터페이스) <br/> - 자바 학습 정리 (함수형 인터페이스) <br/>- LeetCode 코테 1문제     | https://github.com/Vryez11/spring-study<br/>https://github.com/Vryez11/java-play-ground <br/>https://github.com/Vryez11/java-algorithm                                                                                                                                       |
+| 06.18 | - LeetCode 코테 1문제                                                                                                                                                                         | https://github.com/Vryez11/java-algorithm                                                                                                                                        |
 
 ## Results
 스프린트 종료시, 핵심 산출물만 요약.
