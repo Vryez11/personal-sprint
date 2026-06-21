@@ -48,10 +48,41 @@
 #### [코딩테스트](https://github.com/Vryez11/java-algorithm)
 
 ## Learned
-- 
+### Java
+1. 람다
+2. 함수형 인터페이스
+3. 람다 활용
+4. 람다 vs 익명클래스
+
+### Spring
+1. 스프링 빈과 의존관계
+2. 스프링 DB 접근 기술
+3. AOP
+4. 스프링 컨테이너
+5. 스프링 빈
+6. 싱글톤 컨테이너
+7. 컴포넌트 스캔
+8. 의존관계 자동 주입
+9. 빈 생명주기 콜백
+10. 빈 스코프
+
+### Spring MVC
+1. 서블릿
+2. JSP
+3. MVC 패턴
+4. 스프링 MVC 구조 이해
+5. 기본 기능
+6. 타임리프
+7. 스프링과 타임리프
+8. 메시지 및 국제화
+
+### 기술 아티클 파해치기
+1. 당근 피드시스템 안정성 향상기
+
+### 코딩 테스트
+**8문제**
 
 ## Related Links
-- GitHub:
-- Notion (학습 노트):
+- GitHub: https://github.com/Vryez11
 
 > 회고는 [retrospective.md](./retrospective.md) 참고
