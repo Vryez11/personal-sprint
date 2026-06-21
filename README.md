@@ -22,9 +22,9 @@ gantt
     section Sprint 01
     기본기 마스터 :active, s1, 2026-05-26, 2026-06-07
     section Sprint 02
-    심화 마무리 :active, s1, 2026-06-08, 2026-06-21
-    section Spring 03
-    습관 형성 :active, s1, 2026-06-22, 2026-07.05
+    심화 마무리 :active, s2, 2026-06-08, 2026-06-21
+    section Sprint 03
+    습관 형성 :active, s3, 2026-06-22, 2026-07-05
 ```
 
 | #                  | 기간                 | 목표 (한 줄)  | 회고                                 |
