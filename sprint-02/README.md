@@ -42,7 +42,10 @@
 | 06.21 | - 아키텍처 설계 101 특강 <br/> - 당근 피드시스템 안정성 향상기 파해치기 블로그 작성                                                                                                                                                 | https://vryez11.github.io/posts/                                                   |
 
 ## Results
-스프린트 종료시, 핵심 산출물만 요약.
+#### [자바 학습](https://github.com/Vryez11/java-play-ground)
+#### [스프링 학습](https://github.com/Vryez11/spring-study)
+#### [기술 아티클 파해치기](https://vryez11.github.io/posts/)
+#### [코딩테스트](https://github.com/Vryez11/java-algorithm)
 
 ## Learned
 - 
