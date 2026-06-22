@@ -24,10 +24,10 @@
 ## Daily Log
 하루 한 줄. 결과물은 커밋/PR/repo 링크로. (긴 회고는 retrospective.md에)
 
-| 날짜    | 한 일                                                                     | 결과물 |
-|-------|-------------------------------------------------------------------------|-----|
-| 06.22 | - 스프링 MVC 2편 (검증1 - Validation)<br/> - 스프링 MVC 학습 정리 (검증1 - Validation) | https://github.com/Vryez11/spring-study    |
-|       |                                                                         |     |
+| 날짜    | 한 일                                                                                            | 결과물 |
+|-------|------------------------------------------------------------------------------------------------|-----|
+| 06.22 | - 스프링 MVC 2편 (검증1 - Validation)<br/> - 스프링 MVC 학습 정리 (검증1 - Validation) <br/>- LeetCode 코테 1문제 | https://github.com/Vryez11/spring-study <br/>https://github.com/Vryez11/java-algorithm   |
+|       |                                                                                                |     |
 
 
 ## Results
