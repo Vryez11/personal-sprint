@@ -25,6 +25,8 @@ gantt
     심화 마무리 :active, s2, 2026-06-08, 2026-06-21
     section Sprint 03
     습관 형성 :active, s3, 2026-06-22, 2026-07-05
+    section Sprint 04
+    정규 시작 :active, s4, 2026-07-06, 2026-07-19
 ```
 
 | #                  | 기간                 | 목표 (한 줄)  | 회고                                 |
@@ -32,7 +34,7 @@ gantt
 | [01](./sprint-01/) | 2026.05.25 – 06.07 | _기본기 마스터_ | [→](./sprint-01/retrospective.md)  |
 | [02](./sprint-02)  | 2026.06.08 – 06.21 | _심화 마무리_  | [→](./sprint-02/retrospective.md)  |
 | [03](./sprint-03)  | 2026.06.22 - 07.05 | _습관 형성_   | [→](./sprint-03/restrospective.md) |
-|                    |                    |           |                                    |
+| [04](./sprint-04)  | 2026.07.06 - 07.19 | _정규 시작_   | [→](./sprint-04/restrospective.md) |
 
 > 각 Sprint의 실제 코드/산출물은 별도 Repository에서 관리하고, 여기선 **링크만** 겁니다.
 
