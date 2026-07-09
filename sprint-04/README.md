@@ -24,12 +24,12 @@
 ## Daily Log
 하루 한 줄. 결과물은 커밋/PR/repo 링크로. (긴 회고는 retrospective.md에)
 
-| 날짜    | 한 일                                                                                                                                                                          | 결과물                                                                                        |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 07.06 | - 프로그래머스 Lv2 (귤고르기) <br/> - 스프링 MVC 2편 (예외 처리와 오류 페이지, API 예외 처리) <br/> - 스프링 MVC 학습 정리 (예외 처리와 오류 페이지, API 예외 처리) <br/> - 면접을 위한 CS 전공지식노트 독서 <br/> - Kotlin IN ACTION 공부   | https://github.com/dandi-swm/algorithm-study <br/> https://github.com/Vryez11/spring-study |
-| 07.07 | - 프로그래머스 Lv3 (불량사용자) <br/> - 면접을 위한 CS 전공지식노트 독서 <br/> - [단디] 스프린트 계획 및 시작 <br/> - [단디] ERD 설계                                                                               | https://github.com/dandi-swm/algorithm-study                                               |
-| 07.08 | - 프로그래머스 Lv2 (퍼즐게임챌린지) <br/> - 스프링 MVC 2편 (스프링 타입 컨버터) <br/> - 스프링 MVC 학습 정리 (스프링 타입 컨버터) <br/> - [단디] 프로젝트 초기화 <br/> - [단디] MySQL 도커 설정                                     | https://github.com/dandi-swm/algorithm-study <br/> https://github.com/Vryez11/spring-study |
-| 07.09 | - 프로그래머스 Lv3 (파괴되지않는건물) <br/> - 면접을 위한 CS 전공지식노트 독서 <br/> - [단디] 성능 테스트용 서버 구축 <br/> - [스파클링] 2주차 과제 (핵심 유스케이스 5개 작성) <br/> - 스프링 MVC 2편 (파일 업로드) <br/> - 스프링 학습 정리 (파일 업로드) | https://github.com/dandi-swm/algorithm-study <br/> https://github.com/Vryez11/sparkling <br/> https://github.com/Vryez11/spring-study   |
+| 날짜    | 한 일                                                                                                                                                                                                  | 결과물                                                                                        |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 07.06 | - 프로그래머스 Lv2 (귤고르기) <br/> - 스프링 MVC 2편 (예외 처리와 오류 페이지, API 예외 처리) <br/> - 스프링 MVC 학습 정리 (예외 처리와 오류 페이지, API 예외 처리) <br/> - 면접을 위한 CS 전공지식노트 독서 <br/> - Kotlin IN ACTION 공부                           | https://github.com/dandi-swm/algorithm-study <br/> https://github.com/Vryez11/spring-study |
+| 07.07 | - 프로그래머스 Lv3 (불량사용자) <br/> - 면접을 위한 CS 전공지식노트 독서 <br/> - [단디] 스프린트 계획 및 시작 <br/> - [단디] ERD 설계                                                                                                       | https://github.com/dandi-swm/algorithm-study                                               |
+| 07.08 | - 프로그래머스 Lv2 (퍼즐게임챌린지) <br/> - 스프링 MVC 2편 (스프링 타입 컨버터) <br/> - 스프링 MVC 학습 정리 (스프링 타입 컨버터) <br/> - [단디] 프로젝트 초기화 <br/> - [단디] MySQL 도커 설정                                                             | https://github.com/dandi-swm/algorithm-study <br/> https://github.com/Vryez11/spring-study |
+| 07.09 | - 프로그래머스 Lv3 (파괴되지않는건물) <br/> - 면접을 위한 CS 전공지식노트 독서 <br/> - [단디] 성능 테스트용 서버 구축 <br/> - [스파클링] 2주차 과제 (핵심 유스케이스 5개 작성) <br/> - 스프링 MVC 2편 (파일 업로드) <br/> - 스프링 학습 정리 (파일 업로드) <br/> - 프로그래머스 Lv2 (캐시) | https://github.com/dandi-swm/algorithm-study <br/> https://github.com/Vryez11/sparkling <br/> https://github.com/Vryez11/spring-study   |
 
 
 ## Results
