@@ -37,10 +37,34 @@
 
 
 ## Results
-
+#### [자바 학습](https://github.com/Vryez11/java-play-ground)
+#### [스프링 학습](https://github.com/Vryez11/spring-study)
+#### [코딩 테스트](https://github.com/Vryez11/java-algorithm)
+#### [스파클링 - 개인 과제](https://github.com/Vryez11/sparkling)
+#### [확장 가능한 대기열 아티클](https://vryez11.github.io/posts/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4-%ED%99%95%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%EA%B8%B0%EC%97%B4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-%ED%8C%8C%ED%95%B4%EC%B9%98%EA%B8%B0/)
+#### [트위치 시스템 디자인 아티클](https://vryez11.github.io/posts/%ED%8A%B8%EC%9C%84%EC%B9%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5-300%EB%A7%8C-%EB%8F%99%EC%8B%9C%EC%8B%9C%EC%B2%AD-%EB%B9%84%EB%B2%95-%EA%B3%B5%EA%B0%9C-%ED%8C%8C%ED%95%B4%EC%B9%98%EA%B8%B0/)
 
 ## Learned
+### Java
+1. 메서드 참조
+2. 스트림 API - 기본, 기능, 컬렉터
+3. Optional
+4. 디폴트 메서드
+5. 병렬 스트림
+6. 함수형 프로그래밍
 
+### Spring MVC
+1. 검증 1, 2 (Validation, Bean Validation)
+2. 로그인 처리 1, 2 (쿠키, 세션, 필터, 인터셉터)
+
+### 확장 가능한 대기열 시스템 구조
+
+### 트위치는 시스템 디자인 구조
+
+### 코딩 테스트
+**3문제**
+
+### Kotlin in Action
 
 ## Related Links
 - GitHub: https://github.com/Vryez11
