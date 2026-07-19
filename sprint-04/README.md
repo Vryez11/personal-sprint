@@ -42,10 +42,15 @@
 
 
 ## Results
-
-
-## Learned
-
+#### [스프링 MVC](https://github.com/Vryez11/spring-study)
+#### [스프링 DB](https://github.com/Vryez11/spring-study)
+#### 면접을 위한 CS 전공지식노트 독서
+#### [단디] 프로젝트
+#### [스파클링] 프로젝트
+#### [Tolgee 분석기_1](https://vryez11.github.io/posts/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-Tolgee_1/)
+#### [Redis 장애 대응 실습](https://vryez11.github.io/posts/Redis-%EC%8B%A4%EC%8A%B5-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91-1/)
+#### 코테 12 문제
+#### CS 면접 (네트워크, 데이터 베이스)
 
 ## Related Links
 - GitHub: https://github.com/Vryez11
