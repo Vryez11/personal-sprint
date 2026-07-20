@@ -35,9 +35,9 @@ gantt
 |--------------------|--------------------|-----------|------------------------------------|
 | [01](./sprint-01/) | 2026.05.25 – 06.07 | _기본기 마스터_ | [→](./sprint-01/retrospective.md)  |
 | [02](./sprint-02)  | 2026.06.08 – 06.21 | _심화 마무리_  | [→](./sprint-02/retrospective.md)  |
-| [03](./sprint-03)  | 2026.06.22 - 07.05 | _습관 형성_   | [→](./sprint-03/restrospective.md) |
-| [04](./sprint-04)  | 2026.07.06 - 07.19 | _정규 시작_   | [→](./sprint-04/restrospective.md) |
-| [05](./sprint-05)  | 2026.07.20 - 08.02 | _개발 발바닥_  | [→](./sprint-05/restrospective.md) |
+| [03](./sprint-03)  | 2026.06.22 - 07.05 | _습관 형성_   | [→](./sprint-03/retrospective.md) |
+| [04](./sprint-04)  | 2026.07.06 - 07.19 | _정규 시작_   | [→](./sprint-04/retrospective.md) |
+| [05](./sprint-05)  | 2026.07.20 - 08.02 | _개발 발바닥_  | [→](./sprint-05/retrospective.md) |
 
 > 각 Sprint의 실제 코드/산출물은 별도 Repository에서 관리하고, 여기선 **링크만** 겁니다.
 
