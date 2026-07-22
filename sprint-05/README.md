@@ -27,6 +27,7 @@
 | 07.20 | - CS 면접 (운영체제 - 프로세스 vs 스레드) <br/> - 프로그래머스 Lv2 (점프와순간이동) <br/> - 스프링 DB 2편 (데이터 접근 기술 - 시작, 데이터 접근 기술 - 스프링 JdbcTemplate) <br/> - 스프링 DB 학습정리 (데이터 접근 기술 - 스프링 JdbcTemplate) <br/> - Kotlin In Action 공부 <br/> - [단디] 한끼 식사 조회 / 수정 / 삭제 API 구현 | https://github.com/Vryez11/spring-study       |
 | 07.21 | - CS 면접 (동시성 - 경쟁 상태와 임계 영역) <br/> - 프로그래머스 Lv2 (뉴스클러스터링) <br/> - [단디] API 구현 Merge 및 리팩토링 <br/> - Kotlin In Action 공부 <br/> - Spring, Spring MVC, Spring DB 실습 스킬 만들기                                                                           |     |
 | 07.22 | - CS 면접 (Spring Boot - IoC, DI) <br/> - [단디] 공통 에러 핸들링 및 비지니스 에러 핸들링                                                                                                                                                                             |     |
+| 07.23 | - CS 면접 (JVM/GC - JVM 메모리 구조 — 힙·스택·메타스페이스)                                                                                                                                                                                                      |     |
 
 ## Results
 스프린트 종료 시, 핵심 산출물만 요약.
