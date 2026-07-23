@@ -28,6 +28,7 @@
 | 07.21 | - CS 면접 (동시성 - 경쟁 상태와 임계 영역) <br/> - 프로그래머스 Lv2 (뉴스클러스터링) <br/> - [단디] API 구현 Merge 및 리팩토링 <br/> - Kotlin In Action 공부 <br/> - Spring, Spring MVC, Spring DB 실습 스킬 만들기                                                                                                                   |                                               |
 | 07.22 | - CS 면접 (Spring Boot - IoC, DI) <br/> - [단디] 공통 에러 핸들링 및 비지니스 에러 핸들링                                                                                                                                                                                                                     |                                               |
 | 07.23 | - CS 면접 (JVM/GC - JVM 메모리 구조 — 힙·스택·메타스페이스) <br/> - 백엔드 실습 과제 (싱글톤 빈의 공유 상태로 인한 결제 금액 뒤섞임 버그 잡기) <br/> - 프로그래머스 Lv2 (도넛과막대그래프) <br/> - [스파클링] 4주차 과제 (회원가입 API 구현) <br/> - 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1편 공부 <br/> - [단디] 프로젝트 각 계층 구조 정의 <br/> - [스파클링] 4주차 과제 (비밀번호 해시 저장, 로그인 API 구현) | https://github.com/Vryez11/backend-lab <br/> https://github.com/Vryez11/sparkling |
+| 07.24 | - CS 면접 (자료구조 - 배열 vs 연결리스트)                                                                                                                                                                                                                                                             |                                               |
 
 ## Results
 스프린트 종료 시, 핵심 산출물만 요약.
