@@ -38,11 +38,6 @@
 | 08.01 | - CS 면접 (Spring Boot - Bean과 생명주기) <br/> - 백엔드 실습 과제 (파라미터 없이 열어도 죽지 않는 댓글 목록) <br/> - [단디] HTTPS 통신을 위한 준비 작업 <br/> - [단디] 종단간 암호화 준비 작업 <br/> - [스파클링] 4주차 과제 (인증 필터, 내 정보 조회)                                                                                                         | https://github.com/Vryez11/backend-lab <br/> https://github.com/Vryez11/sparkling                                     |
 | 08.02 | - [스파클링] 5주차 과제 (POST /posts 게시글 작성 구현) <br/> - 코테 팀원 리뷰 <br/> - AWS Cloud Practitioner Essentials 모듈 3 학습                                                                                                                                                                               |                                                                                   |
 
-## Results
-스프린트 종료 시, 핵심 산출물만 요약.cd
-
-## Learned
-- 
 
 ## Related Links
 - GitHub:
