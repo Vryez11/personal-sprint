@@ -28,6 +28,8 @@ gantt
     다음 스텝업 :active, s6, 2026-08-03, 2026-08-16
     section Sprint 07
     채우기 :active, s7, 2026-08-24, 2026-09-06
+    section Sprint 08
+    깊이 다이브 :active, s8, 2026-09-07, 2026-09-20
 ```
 
 | #                  | 기간                 | 목표 (한 줄)  | 회고                                |
@@ -39,6 +41,7 @@ gantt
 | [05](./sprint-05)  | 2026.07.20 - 08.02 | _개발 발바닥_  | [→](./sprint-05/retrospective.md) |
 | [06](./sprint-06)  | 2026.08.03 - 08.16 | _다음 스텝업_  | [→](./sprint-06/retrospective.md) |
 | [07](./sprint-07)  | 2026.08.24 - 09.06 | _채우기_     | [→](./sprint-07/retrospective.md) |
+| [08](./sprint-08)  | 2026.09.07 - 09.20 | _깊이 다이브_   | [→](./sprint-08/retrospectiv.md)  |
 
 > 각 Sprint의 실제 코드/산출물은 별도 Repository에서 관리하고, 여기선 **링크만** 겁니다.
 
