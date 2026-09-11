@@ -26,7 +26,7 @@
 | 09.08 | - CS 면접 (동시성 - 데드락) <br/> - 프로그래머스 Lv2 (배열자르기) <br/> - Real MySQL 8.0 공부 <br/> - [단디] 비밀번호 찾기 구현 <br/> - [단디] 백엔드 팀 코드 리뷰 (Icon / Caffeine 캐시 적용) <br/> - [단디] 영양 분석 로깅 (로깅 파일 / DB 저장) 각 장단점 정리 <br/> - [스파클링] 구조 리팩토링 <br/> - 오픽 모의고사 1회 | https://github.com/Vryez11/sparkling |
 | 09.09 | - CS 면접 (Spring Boot - Bean과 생명주기) <br/> - 프로그래머스 Lv2 (바이러스파이프) <br/> - Real MySQL 8.0 공부 <br/> - [단디] 비밀번호 찾기 API 분리 <br/> - [단디] 클라우드 아키텍처 수정 <br/> - [단디] AI 활용 전략 다이어그램 수정 <br/> - [스파클링] 페이지네이션과 내 게시글 조회 설계                          | https://github.com/Vryez11/sparkling |
 | 09.10 | - CS 면접 (컴퓨터구조 - CPU 구성요소와 명령어 사이클) <br/> - 프로그래머스 Lv2 (디펜스게임) <br/> - [단디] 영양 분석 로깅을 위한 정리 (외부 저장소) <br/> - 다우기술 자소서 제출 <br/> - [스파클링] 페이지네이션과 내 게시글 조회 구현                                                                                | https://github.com/Vryez11/sparkling                                     |
-| 09.11 | - CS 면접 (네트워크 - OSI·TCP/IP 계층) <br/> - 프로그래머스 Lv3 (인사고과) <br/> - Real MySQL 8.0 공부                                                                                                                                                         |                                      |
+| 09.11 | - CS 면접 (네트워크 - OSI·TCP/IP 계층) <br/> - 프로그래머스 Lv3 (인사고과) <br/> - Real MySQL 8.0 공부 <br/> - [단디] 비밀번호 찾기 함수 분리                                                                                                                              |                                      |
 
 
 
