@@ -27,7 +27,7 @@
 | 09.22 | - 프로그래머스 Lv2 (행렬의 곱셈) <br/> - 요즘 개발자를 위한 시스템 설계 수업 <br/> - [단디] CA 최신화 수정 <br/> - [단디] AWS 운영 배포 구축 (Jenkins 서버, ECS on EC2, ALB, CI / CD 자동화 구축)                                                           |                                      |
 | 09.23 | - [단디] Jenkinc CI/CD 자동화 및 AWS 운영 참고자료 만들기 <br/> - [단디] 카카오 OAuth 설계 및 구현 <br/> - [단디] AWS SG 인바운드/아웃바운드 규칙 수정 <br/> - [단디] Task definations 수정 <br/> - OAuth 2.0 공부 <br/> - [단디] 백엔드 팀 코드 리뷰 (고양이 한 끼 피드백) |                                      |
 | 09.24 | - OAuth 2.0 공부 마무리 <br/> - [단디] 카카오 OAuth 설계 마무리                                                                                                                                                            | https://link.excalidraw.com/l/82QXdL2Hr1W/6sBIfAls1Ih                                     |
-| 09.25 | - [단디] 고양이 체형 피드백 <br/> - [단디] 카카오 OAuth 구현 <br/> - [단디] 비지니스 로직 테스트 코드 작성                                                                                                                              |                                      |
+| 09.25 | - [단디] 고양이 체형 피드백 <br/> - [단디] 카카오 OAuth 구현 <br/> - [단디] 비지니스 로직 테스트 코드 작성 <br/> - 프로그래머스 Lv3 (풍선 터트리기)                                                                                                     |                                      |
 
 
 ## Related Links
