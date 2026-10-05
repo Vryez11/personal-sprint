@@ -26,6 +26,7 @@
 | 10.02 | - 요즘 개발자를 위한 시스템 설계 수업 공부 <br/> - [단디] Outbox Pattern DB 설계 및 Queue 적재 폴링 워커 설계 <br/> - [단디] 영양 분석 워커 설계 <br/> - [단디] AWS Sandbox 계정에 환경 구축 <br/> - [릿] 어드민 페이지 API 구현                                               | https://app.excalidraw.com/s/82QXdL2Hr1W/9u2bgdRTsxZ |
 | 10.03 | - WebSocket과 실시간 시스템 동시성 제어 특강 <br/> - TOPCIT 멘토링 (Development-Driven Generalist 평가) <br/> - [단디] 식사 기록 및 영양 분석 비동기 설계 마무리 <br/> - [단디] 식사 기록 및 영양 분석 비동기 구현 <br/> - [단디] 비밀번호 변경 rebase 충돌 해결 및 PR 작성               | https://app.excalidraw.com/s/82QXdL2Hr1W/9u2bgdRTsxZ |
 | 10.04 | - 강대명 멘토님 오프라인 멘토링 <br/> - [단디] 블로깅 목록 작성 <br/> - [단디] AWS 이관 <br/> - [단디] AWS Config SDK 방식에서 앱 증명으로 수정 <br/> - [단디] AWS Dev, Prod Jenkins 재배포 검증                                                                   |                                      |
+| 10.05 | - [단디] 구글 OAuth 로그인/회원가입 기능 구현                                                                                                                                                                                       |                                      |
 
 ## Related Links
 - GitHub:
