@@ -15,7 +15,7 @@
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:|:--:|:--:|:--:|
-| ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ | ✅ | ✅ | ⬜  | ✅ | ⬜  | ⬜  |
+| ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ | ✅ | ✅ | ⬜  | ✅ | ✅ | ⬜  |
 
 ## Daily Log
 하루 한 줄. 결과물은 커밋/PR/repo 링크로. (긴 회고는 retrospective.md에)
@@ -34,6 +34,7 @@
 | 10.11 | - CS Daily (JVM 메모리 구조, 배열 vs 연결리스트) <br/> - 이력서 정리 (Introduction, Projects, Growth, Edu) <br/> - namespace 구현 원리 정리 마무리 <br/> - Virtual Memory 학습 및 정리                                                                                                                                                                                           | [네임스페이스 정리](https://app.excalidraw.com/s/82QXdL2Hr1W/Vn0BEbTFja) <br/> [Virtual Memory 정리](https://app.excalidraw.com/s/82QXdL2Hr1W/7TVzLn1tIZX)                                                                                                                         |
 | 10.12 | - CS Daily (TCP vs UDP, 트랜잭션과 ACID) <br/> - 현대오토에버(차량 이커머스 플랫폼) 신입 지원 <br/> - [단디] SWAGGER 작업 (ENUM, 에러 코드) <br/> - [단디] CALUDE.md 최신화 및 규칙 추가 <br/> - [단디] 영양 분석 호출 Vertex AI 엔트포인트 전환 <br/> - Real MySQL 8.0 공부                                                                                                                                 |                                                                                                                                                                                                                                                                          |
 | 10.13 | - [단디] 개발 서버 임의의 문자열 서버로 연결 <br/> - [단디] LoadBalancer에서 허용하지 없는 url 차단 <br/> - [단디] 공동 헤더 작업 (앱·OS 버전, 디바이스 모델, 언어, 지역, 타임존) <br/> - CS Daily (수평·수직 확장, 인증 vs 인가) <br/> - [단디] 소유권 검증을 403으로 통일 <br/> - [단디] inquiry 테이블에 app_version 컬럼값 저장 <br/> - [단디] 아이콘 ID 기본값 정책 수정 <br/> - [단디] Spring MVC 에러 핸들링 세분화 <br/> - [단디] 문의함 문의 내역 되돌리기 API 구현 |                                                                                                                                                                                                                                                                          |
+|       |                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                          |
 
 ## Related Links
 - GitHub:
