@@ -34,6 +34,8 @@ gantt
     응용 :active, s9, 2026-10-01, 2026-10-14
     section Sprint 10
     실전 :active, s10, 2026-10-15, 2026-10-28
+    section Sprint 11
+    심화 :active, s11, 2026-10-29, 2026-11-11
 ```
 
 | #                  | 기간                 | 목표 (한 줄)  | 회고                                |
@@ -45,9 +47,10 @@ gantt
 | [05](./sprint-05)  | 2026.07.20 - 08.02 | _개발 발바닥_  | [→](./sprint-05/retrospective.md) |
 | [06](./sprint-06)  | 2026.08.03 - 08.16 | _다음 스텝업_  | [→](./sprint-06/retrospective.md) |
 | [07](./sprint-07)  | 2026.08.24 - 09.06 | _채우기_     | [→](./sprint-07/retrospective.md) |
-| [08](./sprint-08)  | 2026.09.07 - 09.20 | _깊이 다이브_  | [→](./sprint-08/retrospective.md)  |
-| [09](./sprint-09)  | 2026.10.01 - 10.14 | _응용_      | [→](./sprint-09/retrospective.md)  |
-| [10](./sprint-10)  | 2026.10.15 - 10.28 | _실전_       | [→](./sprint-10/retrospective.md)  |
+| [08](./sprint-08)  | 2026.09.07 - 09.20 | _깊이 다이브_  | [→](./sprint-08/retrospective.md) |
+| [09](./sprint-09)  | 2026.10.01 - 10.14 | _응용_      | [→](./sprint-09/retrospective.md) |
+| [10](./sprint-10)  | 2026.10.15 - 10.28 | _실전_      | [→](./sprint-10/retrospective.md) |
+| [11](./sprint-11)  | 2026.10.29 - 11.11 | _심화_      | [→](./sprint-11/retrospective.md) |
 
 > 각 Sprint의 실제 코드/산출물은 별도 Repository에서 관리하고, 여기선 **링크만** 겁니다.
 
