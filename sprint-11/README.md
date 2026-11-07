@@ -28,7 +28,7 @@
 | 11.04 | - [단디] 백엔드 팀 코드 리뷰 (푸시) <br/> - [단디] 스레드 게시글 업로드 및 관리 <br/> - [weave] 프로젝트 구조 및 설정 <br/> - [단디] README 작성 및 푸시 <br/> - [단디] 아키텍처 버저닝 v3 작성 <br/> - [단디] AI 영양 리포트 기획 및 설계 <br/> - [weave] MVP 설계 및 구현         | [단디 - backend Repo](https://github.com/dandi-swm/dandi-backend) |
 | 11.05 | - [weave] MVP 코드 리뷰 <br/> - [단디] AI 영양 리포트 설계 마무리 <br/> - [weave] PRD (F-004) 스펙 정의 및 구현 <br/> - [단디] AI 영양 리포트 구현 <br/> - [weave] PRD (F-004) 코드 리뷰                                                          |                                                                 |
 | 11.06 | - [weave] RRD (F-007) 스펙 정의 및 구현 <br/> - [단디] 식사 기록 및 영양 분석에 대한 general_log 끈 부하테스트 <br/> - Redis Tier별 학습 및 정리 <br/> - Real MySQL 8.0 학습 <br/> - [단디] AI 영양 리포트 구현 마무리 <br/> - [weave] PRD (F-001) 스펙 정의 및 구현 |                                                                 |
-| 11.07 | - Redis 학습 마무리 <br/> - [weave] PRD (F-001) 구현 마무리 <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 설계                                                                                                            |                                                                 |
+| 11.07 | - Redis 학습 마무리 <br/> - [weave] PRD (F-001) 구현 마무리 <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 설계 <br/> - [weave] PRD (F-002) 스펙 정의 및 구현                                                                     |                                                                 |
 
 ## Related Links
 - GitHub:
