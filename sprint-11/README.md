@@ -29,7 +29,7 @@
 | 11.05 | - [weave] MVP 코드 리뷰 <br/> - [단디] AI 영양 리포트 설계 마무리 <br/> - [weave] PRD (F-004) 스펙 정의 및 구현 <br/> - [단디] AI 영양 리포트 구현 <br/> - [weave] PRD (F-004) 코드 리뷰                                                           |                                                                 |
 | 11.06 | - [weave] RRD (F-007) 스펙 정의 및 구현 <br/> - [단디] 식사 기록 및 영양 분석에 대한 general_log 끈 부하테스트 <br/> - Redis Tier별 학습 및 정리 <br/> - Real MySQL 8.0 학습 <br/> - [단디] AI 영양 리포트 구현 마무리 <br/> - [weave] PRD (F-001) 스펙 정의 및 구현 |                                                                 |
 | 11.07 | - Redis 학습 마무리 <br/> - [weave] PRD (F-001) 구현 마무리 <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 설계 <br/> - [weave] PRD (F-002) 스펙 정의 및 구현 <br/> - 이력서 다듬기                                                      |                                                                 |
-| 11.08 | - [weave] PRD (F-002) 구현 마무리 <br/> - 이력서 다듬기 <br/> - [단디] AI 영양 리포트 구현 마무리 <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 구현 <br/> - [단디] 아키텍처 버저닝 설계 (IA, AA, SA, CA)                                          | https://vryez11.github.io/nyummy-architecture/                                                                |
+| 11.08 | - [weave] PRD (F-002) 구현 마무리 <br/> - 이력서 다듬기 <br/> - [단디] AI 영양 리포트 구현 마무리 <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 구현 <br/> - [단디] 아키텍처 버저닝 설계 (IA, AA, SA, CA) <br/> - [Weave] PRD (F-003) 스펙 정의 및 구현   | https://vryez11.github.io/nyummy-architecture/                                                                |
 
 ## Related Links
 - GitHub:
