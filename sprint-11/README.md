@@ -31,7 +31,7 @@
 | 11.07 | - Redis 학습 마무리 <br/> - [weave] PRD (F-001) 구현 마무리 <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 설계 <br/> - [weave] PRD (F-002) 스펙 정의 및 구현 <br/> - 이력서 다듬기                                                     |                                                                 |
 | 11.08 | - [weave] PRD (F-002) 구현 마무리 <br/> - 이력서 다듬기 <br/> - [단디] AI 영양 리포트 구현 마무리 <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 구현 <br/> - [단디] 아키텍처 버저닝 설계 (IA, AA, SA, CA) <br/> - [Weave] PRD (F-003) 스펙 정의 및 구현  | https://vryez11.github.io/nyummy-architecture/                                                                |
 | 11.09 | - [Weave] PRD (F-003) 구현 마무리 <br/> - 단위테스트의 기술 멘토 특강 <br/> - 이력서 수정 (피드백 반영) <br/> - [단디] 식사 기록 및 영양 분석 Redis Write-Behind 부하 테스트 <br/> - [단디] AI 고도화 방향 설계 및 공부 정리                                           |                                                                 |
-| 11.10 | - [단디] 급식 영양 분석 데이터셋 수집                                                                                                                                                                                       |                                                                 |
+| 11.10 | - [단디] 급식 영양 분석 데이터셋 수집 <br/> - [단디] AI 영양 리포트 dev 배포                                                                                                                                                         |                                                                 |
 
 ## Related Links
 - GitHub:
