@@ -28,7 +28,7 @@
 | 11.18 | - [단디] 최종 보고서 수정 및 공유 (멘토님 의견 받기) <br/> - [단디] DB Queue 도입, 부하테스트 정리 <br/> - [단디] Redis Stream 기반 도입, 부하테스트 정리 <br/> - 토익 스피킹 공부 (PART 별 핵심 강의)                                                                   |     |
 | 11.19 | - [단디] DB Queue 비동기 식사기록 부하테스트 다시 정리 <br/> - [단디] 최종 보고서 최종 마무리 작업 <br/> - ThreadPoolTaskExcutor 흐름 및 코드 정리 <br/> - 식사 기록 및 영양 분석 개선 / CFS 스로틀링 자소서 작성                                                            |     |
 | 11.20 | - [단디] Apple OAuth 설계 및 구현 <br/> - 토익 스피킹 공부 (PART 별 핵심 강의)                                                                                                                                                       |     |
-| 11.21 | - CS Daily (OSI,TCP/IP 계층, 인덱스 기본 원리) <br/> - 백준 (2740번/행렬 곱셈) <br/> - [단디] AI 생성하는 결과를 device_tokens에 저장된 language 강제 <br/> - [단디] 식사 기록 및 영양 분석 Deep Dive                                                       |     |
+| 11.21 | - CS Daily (OSI,TCP/IP 계층, 인덱스 기본 원리) <br/> - 백준 (2740번/행렬 곱셈) <br/> - [단디] AI 생성하는 결과를 device_tokens에 저장된 language 강제 <br/> - [단디] 식사 기록 및 영양 분석 Deep Dive <br/> - Tomcat NioEndpoint 소스 코드 학습 (Acceptor, Poller, 요청 처리 스레드)                |     |
 
 ## Related Links
 - GitHub:
