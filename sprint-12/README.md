@@ -30,7 +30,7 @@
 | 11.20 | - [단디] Apple OAuth 설계 및 구현 <br/> - 토익 스피킹 공부 (PART 별 핵심 강의)                                                                                                                                                                   |     |
 | 11.21 | - CS Daily (OSI,TCP/IP 계층, 인덱스 기본 원리) <br/> - 백준 (2740번/행렬 곱셈) <br/> - [단디] AI 생성하는 결과를 device_tokens에 저장된 language 강제 <br/> - [단디] 식사 기록 및 영양 분석 Deep Dive <br/> - Tomcat NioEndpoint 소스 코드 학습 (Acceptor, Poller, 요청 처리 스레드) |     |
 | 11.22 | - CS Daily (프로세스 vs 스레드, 경쟁 상태와 임계 영역) <br/> - 백준 (1654번/랜선 자르기) <br/> - [단디] 식사 기록 및 영양 분석 Deep Dive (Worker) <br/> - [단디] 최종 발표 자료 수정 및 대본 작성                                                                               |     |
-| 11.25 | - CS Daily (IoC·DI, JVM 메모리 구조)                                                                                                                                                                                               |     |
+| 11.25 | - CS Daily (IoC·DI, JVM 메모리 구조) <br/> - 백준 (2075번/N번째 큰 수)                                                                                                                                                                    |     |
 
 ## Related Links
 - GitHub:
