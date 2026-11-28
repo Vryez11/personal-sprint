@@ -38,6 +38,8 @@ gantt
     심화 :active, s11, 2026-10-29, 2026-11-11
     section Sprint 12
     마무리 :active, s12, 2026-11-13, 2026-11-26
+    section Sprint 13
+    준비 :active, s13, 2026-11-28, 2026-12-11
 ```
 
 | #                  | 기간                 | 목표 (한 줄)  | 회고                                |
@@ -54,6 +56,7 @@ gantt
 | [10](./sprint-10)  | 2026.10.15 - 10.28 | _실전_      | [→](./sprint-10/retrospective.md) |
 | [11](./sprint-11)  | 2026.10.29 - 11.11 | _심화_      | [→](./sprint-11/retrospective.md) |
 | [12](./sprint-12)  | 2026.11.13 - 11.26 | _마무리_     | [→](./sprint-12/retrospective.md) |
+| [13](./sprint-13)  | 2026.11.28 - 12.11 | _준비_      | [→](./sprint-13/retrospective.md) |
 
 > 각 Sprint의 실제 코드/산출물은 별도 Repository에서 관리하고, 여기선 **링크만** 겁니다.
 
